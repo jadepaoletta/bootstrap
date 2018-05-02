@@ -1,0 +1,28 @@
+.navbar {
+    background-color: lightcoral !important;
+}
+a {
+    color: white !important;
+}
+
+.navbar-brand {
+    color: black !important;}
+
+.melon-table {
+    width: 100%;}
+
+.row {
+    padding: 2% 0%;}
+
+th{
+    font-weight: bold;}
+
+.column-title{
+    font-weight: bold;}
+
+.column-title-div{
+    text-align: center !important;}
+
+.dropdown-menu{
+    background-color: lightcoral !important;
+}
